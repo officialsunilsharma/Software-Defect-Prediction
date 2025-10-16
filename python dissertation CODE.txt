@@ -3,9 +3,9 @@ Software Defect Prediction Analysis - Dissertation Final Code
 Python Version: 3.8+
 Required Packages: pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn, shap
 
-Author: [Your Name]
-Date: [Current Date]
-Institution: [Your University]
+Author: [Sunil Kumar]
+Date: [16-10-2025]
+Institution: [Berlin School of Business and Innovation]
 """
 
 import pandas as pd
@@ -322,3 +322,4 @@ def main():
 # Execute main function
 if __name__ == "__main__":
     main()
+
